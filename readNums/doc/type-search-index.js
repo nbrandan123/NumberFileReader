@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"newsom","l":"LinkedList"},{"p":"newsom","l":"MyMain"},{"p":"newsom","l":"Node"},{"p":"newsom","l":"ReadFile"}];updateSearchResults();
